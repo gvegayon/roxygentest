@@ -1,5 +1,5 @@
 Package: roxygentest
-Title: A reproducible example with roxygen2md issues when using Sexpr and noMd.
+Title: A reproducible example with roxygen2md issues when using Sexpr
 Version: 0.0.0.9000
 Authors@R: person("George", "Vega Yon", email = "g.vegayon@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
