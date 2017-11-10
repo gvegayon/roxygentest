@@ -1,0 +1,7 @@
+---
+output: github_document
+title: A reproducible example with roxygen2md issues when using Sexpr and noMd
+---
+
+Nothing to see here, just a couple of examples in which calling `roxygen2::roxygenize()` doesn't parse correctly documentation chunks in which `\Sexpr[]{}` is present. And also the `@noMd` tag only works if included at the end of the documentation chunk.
+
